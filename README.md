@@ -6,11 +6,11 @@ A user-friendly **Age Calculator** built with **React.js** that helps users dete
 ![Age Calculator Screenshot](public/dashboard.png)
 
 ## ✨ Features
-- 📅 Select birthdate using a date picker
-- ⏳ Real-time age calculation in years, months, and days
-- 🔁 Dynamic updates on date change
-- 🖥️ Clean and responsive UI
-- 🧮 Accurate date logic using JavaScript Date object
+- 📅 Select birthdate using a date picker.
+- ⏳ Real-time age calculation in years, months, and days.
+- 🔁 Dynamic updates on date change.
+- 🖥️ Clean and responsive UI.
+- 🧮 Accurate date logic using JavaScript Date object.
 
 ## 🛠️ Technologies Used
 - ⚛️ **React.js** – Component-based UI

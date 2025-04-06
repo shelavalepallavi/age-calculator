@@ -26,8 +26,8 @@ A user-friendly **Age Calculator** built with **React.js** that helps users dete
 │-- 📁 public/
 │   └── index.html
 │-- 📁 src/
-│   │-- 📄 App.js         (Main component)
-│   │-- 📄 index.js       (Entry point)
+│   │-- 📄 App.jsx         (Main component)
+│   │-- 📄 main.jsx       (Entry point)
 │   │-- 📁 components/    (Custom components if any)
 │   └── 📄 index.css        (Styling)
 ```

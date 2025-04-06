@@ -29,7 +29,7 @@ A user-friendly **Age Calculator** built with **React.js** that helps users dete
 │   │-- 📄 App.js         (Main component)
 │   │-- 📄 index.js       (Entry point)
 │   │-- 📁 components/    (Custom components if any)
-│   └── 📄 App.css        (Styling)
+│   └── 📄 index.css        (Styling)
 ```
 
 ## 📥 Installation & Usage

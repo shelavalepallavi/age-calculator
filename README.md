@@ -57,7 +57,7 @@ A user-friendly **Age Calculator** built with **React.js** that helps users dete
 3. 🔄 Change the date to update the result
 
 ## 💡 Future Enhancements
-- 📆 Add countdown to next birthday
+- 📆 Add countdown to next birthday.
 - 🌐 Support for time zones
 - 📱 Shareable result summary
 - 🗓️ Calculate age differences between two dates

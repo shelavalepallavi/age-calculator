@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900');
+
+html,
+body{
+  width: 100%;
+  height: 100%;
+  background: #e4ecff;
+  font-family: 'Inter';
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.age-heading{
+  color:  #5E5AF9;
+  font-size: 5rem;
+  font-weight: 900;
+  display: flex;
+  justify-content: center;
+  line-height: normal;
+  margin-top: 30px;
+}
+h2{
+  font-size: 35px;
+  font-weight: 900;
+  margin-bottom: 5px;
+}
+h4{
+  font-size: 30px;
+  font-weight: 700;
+  margin-top: 5rem;
+}
+.right{
+  width: 500px;
+}
+.para{
+  color: #505050;
+  font-size: 19px;
+  font-weight: 500;
+  margin: 20px 0;
+}
+.buttons{
+  margin-top: 2rem;
+}
+.container_title{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+input[type='date']{
+  color:  #c7d7eb;
+  border: 2px solid #dedede;
+  padding: 20px;
+  font-family: "Roboto Mono",monospace;
+  font-size: 18px;
+  width: 230px;
+  outline: none;
+  border-radius: 5px;
+  margin-top: 50px;
+}
+::-webkit-calendar-picker-indicator{
+  padding: 5px;
+  cursor: pointer;
+  border-radius: 3px;
+}
+.btn{
+  background-color: #2f80ed;
+  border-radius: 10px;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 15px;
+  font-weight: 600;
+  height: 50px;
+  line-height: 1.5;
+  outline: none;
+  padding: 14px 30px;
+  position: relative;
+  text-align: center;
+  border: 0;
+  margin-right: 10px;
+
+}
+.btn:hover{
+  background-color: #1366d6;
+}
+
+@media (min-width: 768px) {
+  .button-65 {
+    padding: 14px 22px;
+    width: 176px;
+  }
+}

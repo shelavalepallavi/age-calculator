@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App{
+  background:  #F4F9FF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+  padding: 5rem;
+}

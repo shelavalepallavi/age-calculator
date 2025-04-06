@@ -1,0 +1,14 @@
+.container-middle{
+  display: flex;
+  justify-content: space-between;
+}
+.left{
+  width: 500px;
+  background: #EEF1F6;
+}
+.middle-para{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}

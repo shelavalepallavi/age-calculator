@@ -58,9 +58,9 @@ A user-friendly **Age Calculator** built with **React.js** that helps users dete
 
 ## 💡 Future Enhancements
 - 📆 Add countdown to next birthday.
-- 🌐 Support for time zones
-- 📱 Shareable result summary
-- 🗓️ Calculate age differences between two dates
+- 🌐 Support for time zones.
+- 📱 Shareable result summary.
+- 🗓️ Calculate age differences between two dates.
 
 ## 🤝 Contributing
 Found a bug or want to contribute a feature? Fork the repo, create a branch, and submit a pull request. Contributions are always welcome! 🙌
